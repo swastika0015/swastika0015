@@ -9,7 +9,7 @@ Skills:  HTML / CSS / JS / REACT / PYTHON
 
 - 🔭 I’m currently working on My Portfolio 
 - 🌱 I’m currently learning React and JS 
-- 📫 How to reach me: DM are open!
+- 📫 How to reach me: DMs are open!
 - ⚡ Fun fact: I scroll through Twitter at every 5 minutes 
 
 
