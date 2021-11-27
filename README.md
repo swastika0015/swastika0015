@@ -5,7 +5,7 @@
 Software Engineer<br>
 
 
-Skills:  HTML / CSS / JS / REACT / PYTHON
+Skills:  HTML / CSS / JS / PYTHON
 
 - 🔭 Freelance Content Writer
 - 🌱 Aspiring Web Developer
