@@ -2,13 +2,13 @@
 
 ### Hi there 👋, Hey there, I'm Swastika Yadav
 
-An Incoming Software Engineer<br>
-Currently in Final Year
+Software Engineer<br>
+
 
 Skills:  HTML / CSS / JS / REACT / PYTHON
 
-- 🔭 I’m currently working on My Portfolio 
-- 🌱 I’m currently learning React and JS 
+- 🔭 Freelance Content Writer
+- 🌱 Aspiring Web Developer
 - 📫 How to reach me: DMs are open!
 - ⚡ Fun fact: I scroll through Twitter at every 5 minutes 
 
