@@ -5,10 +5,10 @@
 Software Engineer<br>
 
 
-Skills:  HTML / CSS / JS / PYTHON
+Skills:  Reactjs | Javascript | Python
 
 - 🔭 Freelance Content Writer
-- 🌱 Aspiring Web Developer
+- 🌱 Frontend Developer | Community Manager
 - 📫 How to reach me: DMs are open!
 - ⚡ Fun fact: I scroll through Twitter at every 5 minutes 
 
