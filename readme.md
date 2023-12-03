@@ -35,26 +35,17 @@
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="" />
- </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
- </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- <a href="https://twitter.com/alsiam_dev" target="_blank">
+   <a href="https://twitter.com/swastika0015" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/alsiam_dev" target="_blank">
+  
+ <a href="https://linkedin.com/in/swastika15" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
+ </a>
+ <a href="https://instagram.com/swastika0015" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
- <a href="https://facebook.com/alsiam.world" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
 </p>
-<br />
 
 <!-- About Section -->
  # About me
@@ -62,16 +53,11 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ❤️ &emsp; I write for Developer communities <br/><br/>
- ❤️ &emsp; Build use case applications and write documentation and tutorial blogs <br/><br/>
- ❤️ &emsp; Speak at events and comferences <br/><br/>
- ❤️ &emsp; And Travel!
-
+ ❤️ &emsp; I write for Developer communities <br/>
+ ❤️ &emsp; Build use case applications and write documentation and tutorial blogs <br/>
+ ❤️ &emsp; Speak at events and comferences <br/>
+ ❤️ &emsp; And Travel!<br/>
 </p>
-
-<br/>
-<br/>
-<br/>
 
 ## My Tech stack
 
@@ -91,8 +77,6 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
-
 <!--- Top Open Source and Repos -
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=swastika0015&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/*****) 
 
@@ -100,10 +84,7 @@
   <a href="https://github.com/swastika0015?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 --->
-
-<br/>
 <hr/>
-<br/>
 
 <p align="center">
   <a href="https://github.com/swastika0015">
@@ -125,7 +106,6 @@
   <a href="https://github.com/swastika0015">
     <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=swastika0015&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
-  <br/>
 </a>
 
 
