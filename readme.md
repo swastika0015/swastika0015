@@ -51,11 +51,10 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ❤️ &emsp; I write for Developer communities <br/>
  ❤️ &emsp; Build use case applications and write documentation and tutorial blogs <br/>
- ❤️ &emsp; Speak at events and comferences <br/>
+ ❤️ &emsp; Speak at events and conferences <br/>
  ❤️ &emsp; And Travel!<br/>
 </p>
 
