@@ -52,10 +52,10 @@
  
 <p>
   
- ❤️ &emsp; I write for Developer communities <br/>
+ ❤️ &emsp; I write for Developer <br/>
  ❤️ &emsp; Build use case applications and write documentation and tutorial blogs <br/>
  ❤️ &emsp; Speak at events and conferences <br/>
- ❤️ &emsp; And Travel!<br/>
+ ❤️ &emsp; Improve Developer Experience!<br/>
 </p>
 
 ## My Tech stack
