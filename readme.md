@@ -56,6 +56,7 @@
  ❤️ &emsp; Build use case applications and write documentation and tutorial blogs <br/>
  ❤️ &emsp; Speak at events and conferences <br/>
  ❤️ &emsp; Improve Developer Experience!<br/>
+ ❤️ &emsp; Checkout @swastika-iiq and swastika-phyllo for recent contributions!<br/>
 </p>
 
 ## My Tech stack
